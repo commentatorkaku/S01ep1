@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[<img src="https://img.youtube.com/vi/watch?v=M5mg0r4ajt4/maxresdefault.jpg" width="50%">](https://youtube.com/watch?v=M5mg0r4ajt4)
+[<img src="https://gifs.com/gif/host-a-static-website-for-free-on-github-mOmp0A?muted=false" width="50%">](https://youtube.com/watch?v=M5mg0r4ajt4)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/commentatorkaku/covid19-prediction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
