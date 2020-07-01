@@ -1,6 +1,8 @@
 # Predicting Covid-19 spread in India,  whether exams should be postponed, by Commentator kaku
 ## Welcome to S01E01 of Commentator Kaku's episodes!
 
+[<img src="https://j.gifs.com/K1NqEx.gif" width="50%">]( https://www.youtube.com/watch?v=NYLQNwQJkUg)
+
 Today we are going to discuss about… a lot of things, which relate to Covid-19. 
 
 Ok so, let me 1st list the things which we are going to discuss today:
