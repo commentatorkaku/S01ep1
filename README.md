@@ -3,6 +3,8 @@
 
 [<img src="https://j.gifs.com/K1NqEx.gif" width="50%">]( https://www.youtube.com/watch?v=NYLQNwQJkUg)
 
+# Transcript:
+
 Today we are going to discuss about… a lot of things, which relate to Covid-19. 
 
 Ok so, let me 1st list the things which we are going to discuss today:
@@ -40,7 +42,7 @@ It is time taken by the body to start showing symptoms, after the body has been 
 
 ### R value: 
 
-It is the no. of people to which one affected person can spread the virus to. Now I have something to say here…r value is generally calculated as the increase in positive cases this day divided by the increase in positive cases the previous day. But I do not agree with this. What we are seeing is an almost 6-7 days delayed result. Because there exists a time lag due to the incubation period. The r value which we are finding today is actually 7 days old. Also if we are dividing the increase of today divided by increase of yesterday, then we assume that the person who has caught the virus today, will be transmitting it tomorrow. But we know, that cannot help.  There has to exist at least a 2-3day lag…The common sense I was talking about. So in mathematical model, I will assume  there to be a time lage unlike the general trend.
+It is the no. of people to which one affected person can spread the virus to. Now I have something to say here…r value is generally calculated as the increase in positive cases this day divided by the increase in positive cases the previous day. But I do not agree with this. What we are seeing is an almost 6-7 days delayed result. Because there exists a time lag due to the incubation period. The r value which we are finding today is actually 7 days old. Also if we are dividing the increase of today divided by increase of yesterday, then we assume that the person who has caught the virus today, will be transmitting it tomorrow. But we know, that cannot help.  There has to exist at least a 2-3day lag…The common sense I was talking about. So in mathematical model, I will assume  there to be a time lag unlike the general trend.
 
 ### Logisitic growth curve: 
 
@@ -50,6 +52,9 @@ Ok, you have enough biological knowledge by now.
 
 ## Time for the 2nd step: Writing it down mathematically:
 
+So, by now we have the algorithm. So let’s write this down in the form of a program:
+
 ## And hence our 3rd step: The program :
+
 
 
